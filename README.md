@@ -1,7 +1,1 @@
-"# pixalator" 
-"# pixalator" 
-"# pixalator" 
-"# pixaletor" 
-"# pixaletor" 
-"# pixaletor" 
-"# pixelator" 
+Converts photos into pixel art. Proof of concept for outdoor sequences in "Tweed" game (still in development).
