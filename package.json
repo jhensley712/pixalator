@@ -1,0 +1,17 @@
+{
+  "name": "pixel",
+  "version": "1.0.0",
+  "description": "converts images to pixelart",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JP",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^0.7.4",
+    "imagemagick": "^0.1.3",
+    "simple-imagemagick": "^0.2.2"
+  },
+  "devDependencies": {}
+}
